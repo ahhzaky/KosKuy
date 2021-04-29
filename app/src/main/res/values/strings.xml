@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KosKuy</string>
+    <string name="info_version">2021 Project PBM</string>
+    <string name="getStarted">Get Started</string>
+    <string name="mulai">Mulai</string>
+    <string name="singin">SIGN IN</string>
+    <string name="newAccount">NEW ACCOUNT</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+</resources>
