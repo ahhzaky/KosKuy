@@ -14,4 +14,8 @@
     <color name="greenSecendary">#92E3A9</color>
     <color name="greyPrimary">#8D8D8D</color>
     <color name="blackPrimary">#21272C</color>
+
+    <color name="bgPrimary">#EEF8ED</color>
+
+
 </resources>
