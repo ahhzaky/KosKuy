@@ -7,4 +7,5 @@
     <string name="newAccount">NEW ACCOUNT</string>
     <string name="username_label">Username</string>
     <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
 </resources>
