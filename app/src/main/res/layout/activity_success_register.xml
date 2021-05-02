@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="34dp"
         android:fontFamily="@font/mregular"
-        android:text="Kamu Hebat"
+        android:text="KosKuy"
         android:textAlignment="center"
         android:textColor="@color/blackPrimary"
         android:textSize="24sp"
