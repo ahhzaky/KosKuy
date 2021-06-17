@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580267347182",
+    "project_id": "koskuy-8fbad",
+    "storage_bucket": "koskuy-8fbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580267347182:android:6fa5a64809b50a0916f7ff",
+        "android_client_info": {
+          "package_name": "com.projectppl.koskuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580267347182-fjbdphgp05ti695ovnnld5oks95irh9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHGMTlNHrtedEhjYqry5vqcLsQCKLltg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580267347182-fjbdphgp05ti695ovnnld5oks95irh9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
