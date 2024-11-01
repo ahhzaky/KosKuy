@@ -4,6 +4,6 @@ KosKuy merupakan aplikasi berbasis mobile yang dibuat menggunakan java. Aplikasi
 
 Anggota:
 
-Ahmad Zaky (1808107010026)
+Ahmad Zaky 
 
-Arie Maulana (1808107010052)
+Arie Maulana 
