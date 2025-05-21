@@ -1,9 +1,9 @@
 # KosKuy
 
-KosKuy merupakan aplikasi berbasis mobile yang dibuat menggunakan java. Aplikasi ini bertujuan untuk memudahkan orang dalam mencari rumah kos maupun apartemen yang berada di daerah sekitar. 
+KosKuy is a mobile-based application created using Java. This application aims to make it easier for people to find boarding houses or apartments in the surrounding area.
 
-Anggota:
+For information only, this is Frontend only.
 
-Ahmad Zaky 
-
-Arie Maulana 
+Member:
+- Ahmad Zaky 
+- Arie Maulana 
